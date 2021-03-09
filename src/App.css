@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+.movie {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.new {
+  font-size: 0.75em;
+  color: #003cff;
+}
+
+.kids {
+  color: rgb(247, 212, 15);
+}
+
+.user-icon {
+  color: white;
+}
+
+.subscribe-btn {
+  height: 1.5rem;
+  font-size: 0.6rem;
+}
+
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid #dad3d8;
+}
+
+.textbox i {
+  width: 26px;
+  float: right;
+  text-align: center;
+  color: white;
+}
+
+.textbox input {
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+}
+
+.text-left {
+  color: rgb(216, 204, 204);
+}
+
+h2,.h2{
+  color:white
+}
+.text{
+  color: white;
+}
+.carousel {
+  height: 100px;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}

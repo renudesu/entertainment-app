@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "Episode": "S1 E8 . 23 sep 2020",
+        "imageURL": "https://www.tellyupdates.com/wp-content/uploads/2020/09/Excuse-Me-Madam.jpg"
+    },
+    {
+        "id": 2,
+        "Episode": "S1 E9 . 23 sep 2020",
+        "imageURL": "https://i.pinimg.com/564x/af/4a/54/af4a5445b97e59fee82b512d345bb63e.jpg"
+    },
+    {
+        "id": 3,
+        "Episode": "S1 E10 . 23 sep 2020",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zVsqTXptHLiKzP8GSuWjUXMY4EqkDd1FJQ&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "Episode": "S1 E11 .  23 sep 2020",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWi7terUePKH-W_2SwgiClY5k5jB8Fw_pWfw&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "Episode": "S1 E12 .23 sep 2020",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQma9ezRp9hRXZIo95zSnkqCNpVG4CD-OsU1w&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "Episode": "S1 E13 .23 sep 2020",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-5ewZeZWkC_UfBQaDTYVQCJgPJxbYck0Kg&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "Episode": "S1 E14 .23 sep 2020",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-PsNbJX9pVA354mXDt8_h4_okEAEJEnvOw&usqp=CAU"
+    }
+]
